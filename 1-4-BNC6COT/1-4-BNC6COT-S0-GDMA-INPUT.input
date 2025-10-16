@@ -1,0 +1,12 @@
+File 1-4-BNC6COT-S0.fchk
+Angstrom
+Multipoles
+  Limit 2
+  Switch 4.0
+  Radius H 0.35
+  Punch file.punch
+  ADD Ac -0.028428  0.052126  0.008369
+  ADD A1 -0.029463  0.042724  1.008325
+  ADD A-1 -0.027392  0.061528 -0.991586
+Start
+Finish
