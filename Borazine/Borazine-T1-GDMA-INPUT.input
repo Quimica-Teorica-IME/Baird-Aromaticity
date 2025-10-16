@@ -1,0 +1,12 @@
+File Borazine-T1.fchk
+Angstrom
+Multipoles
+  Limit 2
+  Switch 4.0
+  Radius H 0.35
+  Punch file.punch
+  ADD Ac  0.011518 -0.000564 -0.018377
+  ADD A1  0.035198 -0.001547  0.981342
+  ADD A-1 -0.012162  0.000419 -1.018097
+Start
+Finish
